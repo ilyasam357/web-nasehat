@@ -1,0 +1,68 @@
+.icon img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+}
+.navbar-brand {
+    padding: 25px;
+}
+#contact{
+    background-color: rgb(63, 59, 59);
+    text-align: center;
+    color: white;
+}
+.col1{
+    width: 33.33%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    padding: 30px 10px;
+    background-color: rgb(51, 50, 50);
+    color: white ;
+  
+}
+
+.col1 h4{
+    padding-bottom: 11px;
+    border-bottom: 1px solid #51fc0e;
+    margin-bottom: 13px;
+}
+    
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .col1{
+      width: 100%;
+    }
+    footer{
+        width:95%;
+    }
+  }
+
+footer{
+    background-color: rgb(54, 50, 50);
+    padding: 10px;
+    text-align: center;
+    
+}
+footer small{
+    color: white;
+}
+.social-media-icon1{
+    padding: 2px 3px 1px 3px;
+    color: rgb(76, 241, 35);
+    margin: 5px;
+    border-radius: 20px;    
+}
+.social-media-icon2{
+    padding: 2px 3px 1px 3px;
+    color: rgb(221, 233, 218);
+    margin: 5px;
+    border-radius: 20px;
+}
+.social-media-icon3{
+    padding: 2px 3px 1px 3px;
+    color: rgb(16, 92, 233);
+    margin: 5px;
+    border-radius: 20px;
+}

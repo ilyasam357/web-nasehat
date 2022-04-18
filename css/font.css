@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Qbold;
+    src: url(../asset/font/ScheherazadeNew-Bold.ttf);
+}
+@font-face {
+    font-family: Qregular;
+    src: url(../asset/font/ScheherazadeNew-Regular.ttf);
+}
+.text-bold {
+    font-family: Qbold;
+}
+.text-regular {
+    font-family: Qregular;
+}
+.text-color1 {
+    color: green;
+}
+.text-color2 {
+    color: gold;
+}
+.text-color3 {
+    color: rgb(172, 233, 123);
+}
+.text-bcolor1 {
+    background-color: rgb(66, 68, 67);
+}
